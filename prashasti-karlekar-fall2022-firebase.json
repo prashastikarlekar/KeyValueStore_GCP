@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "prashasti-karlekar-fall2022",
+  "private_key_id": "8e5fa07e6a711efd34a6cdb5db53229aca1f8fcf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCbdYm5f/mMLXFY\n2FunZIZ37a4l5McbdZjZXenMz1H+83kvqJJtEX9ZFWIQKzi15xKP7Ur0puQi4anZ\nOYgcf0o/jbtLGpZWhcJhVhgSlxC5EwAWnNXc/nhDGvseRTozBil5rE/gWFEZ65v+\nfory6tAhPViJnA/oPxRD8+sCOXb/2nQL7ARga1i1F9j45sJzBQGuQXyw7llOrljX\n8AipylxOL0akPP9AkhV/sbv4NVqzq4POgQdXsH37iArlS7kPzyux9s4anrmy6tH5\ndkQNaUbHVg6u/7ffJCbe1QIGOKZQ64iV06ZvpzX5QydZBdrixbly5Rs2IUEZexMr\ngpsq25E7AgMBAAECggEAGlbv3t4wCfApJESEQvhlUCyVNRZuJdjm7O1cj7cQzYGz\nJsAJDzHHwfA9jT/FfAyKuJgb+xfLz50sigGVbj6i9eGtuivnDQHczWEo8v1ld/Yg\nLbSlB6yV88i+g4J3Oe3xWQw4/Gn6U8n3xEbsg/wFB5y9Q5ONnmwRovHQ/6982hyF\naAwvwcpqiCkJ7r5VxEnz+EYVTfaacEisL+awYYa/Dv67I0/48Sf4qrlIQ4rcxWSW\nM2C9bplJ7fZ8z+27Ggrsokp+Rf2uq/ee4xoF/TuemFG8+2nJ7poqvArjOk34lnpD\nDtvaVdk2RHdPn4CQdwnc26G6LX54z0La282wN7L8AQKBgQDa8GvLksxfiv5k87I0\nJT3Zs97owbUbom/ohf90SZijxPMCmOqcpYTCCxnRJWqh6EcOGAni2fxWzb83bcp8\nZjS1GC1FwhTGANOlf3DkGkpImOIE6oZuRqcR2p536GylK5r0MEK4gesNgkHgdE2s\nnwns41PN8op645+AQWVk+0GDCwKBgQC1xkD20i6NBjxyu/orYnEEg7573T42IvNE\n9sLVG8mvLor4vxPDOaXQcTqF0xaz/kQZrdI8e7RTRtvCWcBt6aYdBy3amBQsR7WK\nSvfiu8CoJHxma8mUSLeEpItl2MoX6dwp8z1Z+FnB+IlMRP3mKJFJ2hz4zzGOj/aj\nLQ1xFPgIkQKBgA8mad8pZlkKLjZgIqm3FgOVjcw/cz/ZSrMlaprqaNSUUViRqlJy\npbAjwoKVez5+60PPaAe5m9uJ2zyDrWpUTDtn0+Iq3vMgpYSjP/WY2CET6zf53pmM\n7AyxOxwDClmXnd5d5JAN9Wz24YYdpi5WxwIMbQUoTmrYi3X9kH2fYVYnAoGAWKfl\nL3y7r5SHDv6XuWk97hHDae4yVX0eYVhpFj+DUqnEpiWroeAP+2X+QR7/R7KPzGZ2\nz4EWJje9H0FfFTyMBERoHOFnlWE0Lcr6s98Wy+tfsSSJIIWG3G7UfkwJ5TfuZZd5\nKNR0EqMBc+2CWCsZEYgL8V48sWeNx3BFyg2MG8ECgYBN054gIN+B5p4S8tvxYnNc\nps70+UK7HZFI4WXLx5n9jB5V2NbK+DQ3VMuCngHMZy6XGfqTgeKQXasu5SW2E2KA\nojwfqqx3LySQrzEB0dm+vvhZ6brTj6qBsVZ4LjjIwDQWZMhWpbpChkNPjNWn9Q6r\nEzXlq7vOX3jHyzvi3j8p1A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-pe5uo@prashasti-karlekar-fall2022.iam.gserviceaccount.com",
+  "client_id": "114932583562175908307",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-pe5uo%40prashasti-karlekar-fall2022.iam.gserviceaccount.com"
+}
