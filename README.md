@@ -1,4 +1,4 @@
-# KeyValueStore_GCP
+# Distributed KV Store
 
 This repository presents the KeyValueStore_GCP project—a versatile key-value store system implemented using Python 3. The project features a TCP/IP server that seamlessly interacts with clients to execute operations on a robust database. The project incorporates diverse storage options, including native storage using files, integration with Google Cloud Firestore for dynamic NoSQL storage, and Google Cloud Bucket storage for scalable file storage solutions.
 
